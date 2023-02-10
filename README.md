@@ -4,5 +4,5 @@ In this project, I created a MATLAB function that will serve as the “brains”
 
 ## Completion Date
 
-This project was completed on 10/19/2018.
+This project was completed on 10/2018.
 
